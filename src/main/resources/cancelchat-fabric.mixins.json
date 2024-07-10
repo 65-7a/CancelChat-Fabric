@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.callumwong.cancelchatfabric.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "server": [
+    "PlayerManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
